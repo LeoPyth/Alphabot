@@ -23,7 +23,7 @@ global.language = english  //change indonesia to english if you don't understand
 
 
 // Other
-global.botname = "Izumi-Mdོ" //namabot kalian
+global.botname = "Fangz-mdོ" //namabot kalian
 global.ownername= "ᴹᴿ᭄ LeoOfcོ ×፝֟͜×" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
@@ -38,7 +38,7 @@ global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder i
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 
-global.packname = '© Izumi-Mdོ' //sticker wm ubah
+global.packname = '© Fangz-Mdོ' //sticker wm ubah
 global.author = 'Di Buat Oleh Leo' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
